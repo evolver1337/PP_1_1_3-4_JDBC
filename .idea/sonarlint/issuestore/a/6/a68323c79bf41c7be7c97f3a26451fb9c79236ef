@@ -1,21 +1,14 @@
 
-£
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÎÃ™¢øÿÿÿÿ8ºëé—ë1
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸Áş8 ’¸‚ë1
-£
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õöÊ¸ÿÿÿÿÿ8¡’¸‚ë1
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿ ¼Ş8¡’¸‚ë1
-£
-java:S1186#"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«éæäıÿÿÿÿ8¢’¸‚ë1
-H
-java:S1168 "+Return an empty collection instead of null.(¥¹ï8¥’¸‚ë1
+L	java:S106"+Replace this use of System.out by a logger.(á˜°‘ûÿÿÿÿ8ÓÒõ¡ë1
+G	java:S106'"+Replace this use of System.out by a logger.(Ø¼¢ƒ8¥•ø¡ë1
 U
-java:S1128"8Remove this unused import 'jm.task.core.jdbc.util.Util'.(õ¥ãô8Ú¹ë—ë1
+java:S1128"8Remove this unused import 'jm.task.core.jdbc.util.Util'.(õ¥ãô8¶“€¢ë1
 M
-java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8Ú¹ë—ë1
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8¶“€¢ë1
 O
-java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8Ú¹ë—ë1
+java:S1128	"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8¶“€¢ë1
 L
-java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8Ú¹ë—ë1
+java:S1128
+"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8¶“€¢ë1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¶“€¢ë1

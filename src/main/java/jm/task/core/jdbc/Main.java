@@ -9,7 +9,6 @@ public class Main {
     public static void main(String[] args) {
         // реализуйте алгоритм здесь
         UserServiceImpl userService = new UserServiceImpl();
-        Util.getConnection();
         UserDao userDao = new UserDaoJDBCImpl();
 
         userDao.createUsersTable();
