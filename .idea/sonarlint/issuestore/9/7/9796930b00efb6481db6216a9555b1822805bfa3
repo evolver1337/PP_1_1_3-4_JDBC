@@ -1,0 +1,12 @@
+
+j	java:S116"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇçŸ8–‚±ë1
+o	java:S116"SRename this field "USERNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õï®ñ8–‚±ë1
+o	java:S116	"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏØÕ8–‚±ë1
+>
+java:S1170"!Make this final field static too.(ÇçŸ8–‚±ë1
+>
+java:S1170"!Make this final field static too.(Õï®ñ8–‚±ë1
+>
+java:S1170	"!Make this final field static too.(ÏØÕ8–‚±ë1
+S
+java:S6437"6Revoke and change this password, as it is compromised.(†±àÜ8˜‚±ë1
