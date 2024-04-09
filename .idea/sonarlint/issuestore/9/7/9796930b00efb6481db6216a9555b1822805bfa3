@@ -1,0 +1,21 @@
+
+D
+java:S3010"'Remove this assignment of "connection".(†±àÜ8’´Ë•ì1
+S
+java:S6437"6Revoke and change this password, as it is compromised.(†±àÜ8•´Ë•ì1
+l
+java:S32524"JUse static access with "org.hibernate.cfg.AvailableSettings" for "DRIVER".(ò¥‡íýÿÿÿÿ8¤´Ë•ì1
+d
+java:S32525"GUse static access with "org.hibernate.cfg.AvailableSettings" for "URL".(ÝþŒ¸8¦´Ë•ì1
+e
+java:S32526"HUse static access with "org.hibernate.cfg.AvailableSettings" for "USER".(è©šŒ8§´Ë•ì1
+e
+java:S32527"HUse static access with "org.hibernate.cfg.AvailableSettings" for "PASS".(›Áìë8©´Ë•ì1
+m
+java:S32528"KUse static access with "org.hibernate.cfg.AvailableSettings" for "DIALECT".(á¶ Óýÿÿÿÿ8©´Ë•ì1
+i
+java:S3252:"LUse static access with "org.hibernate.cfg.AvailableSettings" for "SHOW_SQL".(÷µ•–8©´Ë•ì1
+~
+java:S3252<"aUse static access with "org.hibernate.cfg.AvailableSettings" for "CURRENT_SESSION_CONTEXT_CLASS".(ßÓÿ­8©´Ë•ì1
+r
+java:S3252>"PUse static access with "org.hibernate.cfg.AvailableSettings" for "HBM2DDL_AUTO".(®ÇÐîýÿÿÿÿ8©´Ë•ì1
