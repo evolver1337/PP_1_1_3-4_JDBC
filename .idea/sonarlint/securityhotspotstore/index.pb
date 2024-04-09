@@ -21,5 +21,3 @@ l
 TaskJDBC.iml,6/8/6874deaebaee5ac83785b74ff8f5ac55a213ba3f
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
-b
-2src/test/java/jm/task/core/jdbc/util/UtilTest.java,d/f/dfb6987faaf7f9da8948332a4fcb75743ffa2f5e
