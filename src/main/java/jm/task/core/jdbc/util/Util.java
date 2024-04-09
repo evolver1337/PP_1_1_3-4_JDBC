@@ -9,14 +9,27 @@ public class Util {
     private static final String PASSWORD = "root";
 
     private static Connection connection = null;
+    private static Util instance = null;
 
-
-    public static Connection getConnection() {
+    private Util(){
         try {
-            connection = DriverManager.getConnection(URL, USERNAME, PASSWORD);
+            if (null == connection || connection.isClosed() ) {
+                connection = DriverManager.getConnection(URL, USERNAME, PASSWORD);
+            }
         } catch (SQLException e) {
             e.printStackTrace();
         }
+    }
+
+    public static Util getInstance() {
+        if (instance == null) {
+            instance = new Util();
+        }
+        return instance;
+    }
+
+
+    public static Connection getConnection() {
         return connection;
     }
 
